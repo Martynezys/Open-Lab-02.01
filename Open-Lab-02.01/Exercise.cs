@@ -14,8 +14,8 @@ namespace Open_Lab_02._01
 
         public double GetSecond(double[] numbers)
         {
-
-            
+            double secondNumber = numbers[1];
+            return secondNumber;
 
         }
     }
